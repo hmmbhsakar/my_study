@@ -1,3 +1,8 @@
+# Notes
+## Default Terminal
+I found that Zutty is the default terminal emulator in case of Ubuntu being installed in WSL. Following command was helpful to check the same:
+`sudo update-alternatives --config x-terminal-emulator`
+
 # How To
 
 ## Mount Google Drive (Virtual Drive) into WSL
