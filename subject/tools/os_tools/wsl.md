@@ -1,11 +1,13 @@
 # Notes
+
 ## Default Terminal
+
 I found that Zutty is the default terminal emulator in case of Ubuntu being installed in WSL. Following command was helpful to check the same:
 `sudo update-alternatives --config x-terminal-emulator`
 
-# How To
+## How To
 
-## Mount Google Drive (Virtual Drive) into WSL
+### Mount Google Drive (Virtual Drive) into WSL
 
 To Mount Google Drive (virtual Drive) in windows that is shown after installation of google drive local disk in computer. First create a directory in the linux distro to mount to and then mount like any other drive mounting. Creating a mount destination directory (`sudo mkdir /mnt/d`, replacing d with whatever drive letter you'd like to use) and then using the drvfs file system interop plugin, with the command:
 
@@ -14,7 +16,7 @@ sudo mkdir [/mnt/any_drive_name]   # First run this to create a directory to mou
 sudo mount -t drvfs [window_drive_to_mount]:D: [/mnt/newly_created_directory_using_above_line_code] # Now enter this line code by replacing window drive to mount name and created dir in previous line  
 ```
 
-## Automating Drive Mount with
+### Automating Drive Mount with
 
 You can use the /etc/wsl.conf file inside your Ubuntu distribution to automate the mounting process. Specifically, you’ll want to:
 
