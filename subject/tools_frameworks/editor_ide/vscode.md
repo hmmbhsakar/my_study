@@ -1,5 +1,16 @@
 # VS Code
 
+## Special Features
+
+### multi-cursor editing
+
+Visual Studio Code offers several methods for editing or typing on multiple lines simultaneously, which is known as multi-cursor editing.
+
+1. Adding Cursors on Consecutive Lines:
+Windows: Press Ctrl + Alt + Down Arrow or Ctrl + Alt + Up Arrow to add a cursor to the line below or above the current cursor.
+
+**to_study**
+
 ## Extensions
 
 1. Markdown All in One: Easing the markdown creation
@@ -11,3 +22,5 @@
    2. Prettier doesn't give warning for Markdown voilations, even though on using Prettier to reformat solves the issues. Hence to have an eye and check warnings are there, this is also installed along with the Prettier.
 3. Prettier: for consistent code formatting
    1. Shortcut for applying it in vs code windows is `Alt + Shift + F`
+4. Code Spell Checker: Spelling checker for source code
+   1. Since I was doing a lot english word mistakes in writing notes and whatever i am writing hence needed something to suggest the correct spelling and also keep an eye on the same. 

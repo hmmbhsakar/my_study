@@ -6,6 +6,10 @@ An interface that allows users to interact with an operating system by interpret
 
 POSIX: Portable Operating System Interface, is a family of standards for defining a standard operating system interface and environment, including a command interpreter (shell) and common utility programs, to ensure source code level portability of applications across different operating systems, particularly those derived from Unix.
 
+### POSIX Operators
+1. `|`  (pipe)
+   1. 
+
 ### POSIX Commands
 
 1.

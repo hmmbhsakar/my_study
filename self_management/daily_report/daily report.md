@@ -1,5 +1,14 @@
 # Daily report
 
+## 2025/10/02
+
+1. Since I have work laptop of office, was thinking how can i utilize the same to for learning and productivity, like just using the display of laptop as the another monitor, that way I would have one more display to work with. Found that Window has a inbuilt method Projecting to This PC for doing the same in laptop with Miracast compatibility, but that requires "Wireless Display" optional feature to be enabled and this enablement requires admin privileges. 
+2. Failing on the same, started searching for software level work on the same. Found one open source software named: Deskreen but it was not updated since 2022 and also on installation it couldn't detect the wifi laptop is connected with cast the screen over local network
+3. Trying ahead, I thought to try Spacedesk, but the issue is it's viewer also need admin access for installation. Hence attempt failed
+4. Little customized the Screen being casted on the Youtube Stream. Like Interesting way to make only the windows visible and not the background without anything. Using Chroma and color combination.  
+5. Started with organization of the tools whoes notes already was working on like wsl, shell. But then to save the notes of the OBS, it felt issue as which category to keep it in. And that'w how improvement of the 3 years old tools categorization began which eventually using multiple llms like chatgpt, grok, gemini, claude (best) became most organized at the same time a lot larger comprehensive and full of tools never even heard of. But since this effort is one time and then it would be streamlined to learn and write notes of any tools in this repo hence did it. Actually whole day's most time went into the same. Now still one time cross-verification from the chatgpt generated tools list is pending.  
+6. Today can't be much considered studying but still, since few days back only started so this is somewhat expected, hope that after this when the real study starts then also I can continue the same streak and keep doing the same and complete everything properly. 
+
 ## 2025/10/01
 
 1. Started from Mid day like 1 Pm, as today is the first day when unallocated
