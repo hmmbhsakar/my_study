@@ -1,5 +1,9 @@
 # Structured Tools Directory
 
+## maths
+
+#### Nu
+
 ## dev_env
 
 ### editors_ide

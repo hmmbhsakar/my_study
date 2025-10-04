@@ -1,5 +1,17 @@
 # Daily report
 
+## 2025/10/04
+
+1. Further kept on regarding ChatGPT suggestion on addition of POSIX, which eventually lead to learning a lot of new things, for which on 3rd Oct also and today added in the respective folders.
+2. The categorization is getting somewhat out of hand, as whatever new thing I am finding, I am adding in the ultimate structure leading to too much categorization. Like in virtualization only I would have added 10 category. And since had used the gemini Google Search for coming up with the category of the virtualization so possibly it might not be best as I think Google Search AI is the lightest and fastest inference model of the Google
+3. After stopping the Categorization and that pursuit, started working on a old project in work laptop to automate the mailer in batch using selenium and python. Although it took time but output is much better than giving task completely to AI and asking it build the whole source code as many thing unnecessary is also added by llms, many things fail. Hence toward started with the approach of bottom to top, started very least basic feature like opening a url in browser using selenium and kept on adding elements sequentially. Found that find by XPATH is a lot great in performing and very easy to detect.
+4. Work Laptop was full of waste, 10s of projects with virtual environment taking 10s of GB space and internal full, and since changing project so deleted every project's virtual environment and node modules. Even removed ~2000 mails from inbox. Cleaned directories. Since out of old project so found that every access is automatically gone, like even websites whose special access had in earlier project are now blocked
+5. Checked that got allocated in new project, since new project's client is google so somewhat excited to start the journey.  
+
+## 2025/10/03
+
+1. Created Multiple files and started working through them, mostly forgot to push in night, so don't even recall much what i did most of the time, but since in morning of 4th oct, first pushed the commit till 3rd so can check through it. 
+
 ## 2025/10/02
 
 1. Since I have work laptop of office, was thinking how can i utilize the same to for learning and productivity, like just using the display of laptop as the another monitor, that way I would have one more display to work with. Found that Window has a inbuilt method Projecting to This PC for doing the same in laptop with Miracast compatibility, but that requires "Wireless Display" optional feature to be enabled and this enablement requires admin privileges. 

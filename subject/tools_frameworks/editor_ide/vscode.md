@@ -1,5 +1,14 @@
 # VS Code
 
+## Shortcuts
+
+### Focusing Specific Editor Groups
+
+- To change focus between split editor windows in VS Code, the following shortcuts can be used:
+  - `Ctrl + 1`: Focuses the left editor group
+  - `Ctrl + 2`: Focuses the right side editor group (if two are open)
+  - `Ctrl + 3`: Focuses the right most editor group (if three are open)
+
 ## Special Features
 
 ### multi-cursor editing
@@ -9,7 +18,14 @@ Visual Studio Code offers several methods for editing or typing on multiple line
 1. Adding Cursors on Consecutive Lines:
 Windows: Press Ctrl + Alt + Down Arrow or Ctrl + Alt + Up Arrow to add a cursor to the line below or above the current cursor.
 
-**to_study**
+**_to_study_**
+
+## How to
+
+### Keyboard Output Messed Up
+
+- "£" sigh coming instead of Hashtag on pressing `Shift + 3`
+- > By mistake you would have pressed `Alt + Shift` leading to keyboard input changing to UK from US. This will cause a lot of key mapping to get changed like @ will exchange location with " Press `Alt + Shift` it again and it would work.
 
 ## Extensions
 
