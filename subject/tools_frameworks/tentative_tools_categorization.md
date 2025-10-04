@@ -1,4 +1,4 @@
-# Structured Tools Directory - Revised
+# Structured Tools Directory
 
 ## dev_env
 
@@ -6,15 +6,20 @@
 
 #### code_editors
 
+##### general_editors
+
 - vscode.md
-- spyder.md
+- sublime_text.md
 - vim.md
 - neovim.md
-- sublime_text.md
+- emacs.md
+
+##### language_specific_editors
+
+- spyder.md
 - intellij_idea.md
 - pycharm.md
-- emacs.md
-- rstudio
+- rstudio.md
 
 #### notebooks
 
@@ -29,7 +34,7 @@
 #### version_control_systems
 
 - git.md
-- git-lfs.md
+- git_lfs.md
 - svn.md
 - mercurial.md
 
@@ -49,11 +54,18 @@
 
 ### profilers
 
+#### general_profilers
+
 - cprofile.md
 - py_spy.md
 - valgrind.md
 - perf.md
 - dotnet_profiler.md
+
+#### specialized_profilers
+
+- line_profiler.md
+- memory_profiler.md
 
 ### linters_formatters
 
@@ -85,6 +97,12 @@
 - linux_arch.md
 - windows_server.md
 - macos.md
+
+#### system_utilities
+
+- rsync.md
+- htop.md
+- ssh.md
 
 #### process_management
 
@@ -126,12 +144,9 @@
 - chef.md
 - saltstack.md
 
-#### service_mesh
+#### policy_as_code
 
-- istio.md
-- linkerd.md
-- consul.md
-- envoy.md
+- opa.md
 
 ### package_build_management
 
@@ -162,14 +177,19 @@
 
 #### build_systems
 
+##### general_build_systems
+
 - make.md
 - cmake.md
+- bazel.md
+- ninja.md
+
+##### js_bundlers
+
 - webpack.md
 - vite.md
 - rollup.md
 - parcel.md
-- bazel.md
-- ninja.md
 
 #### environment_managers
 
@@ -216,6 +236,13 @@
 - openshift.md
 - rancher.md
 
+#### service_mesh
+
+- istio.md
+- linkerd.md
+- consul.md
+- envoy.md
+
 ### virtualization
 
 - virtualbox.md
@@ -238,7 +265,7 @@
 - buildkite.md
 - teamcity.md
 
-#### workflow_orchestration
+#### workflow_automation
 
 - apache_airflow.md
 - prefect.md
@@ -246,9 +273,6 @@
 - luigi.md
 - argo_workflows.md
 - temporal.md
-
-#### process_automation
-
 - power_automate.md
 - zapier.md
 - n8n.md
@@ -281,16 +305,24 @@
 
 #### application_performance_monitoring
 
-- datadog_apm.md
-- new_relic_apm.md
 - dynatrace.md
 - appdynamics.md
+
+#### distributed_computing
+
+- ray.md
+- dask.md
 
 #### distributed_tracing
 
 - jaeger.md
 - zipkin.md
 - opentelemetry.md
+
+### hpc_scheduling
+
+- slurm.md
+- mpi.md
 
 ## data
 
@@ -325,6 +357,7 @@
 - deequ.md
 - soda.md
 - monte_carlo.md
+- ydata_profiling.md
 
 #### web_scraping
 
@@ -441,7 +474,6 @@
 
 - pandas.md
 - polars.md
-- dask.md
 - vaex.md
 - r_tidyverse.md
 
@@ -468,7 +500,7 @@
 - apache_superset.md
 - qlik.md
 
-##### spreadsheets
+#### spreadsheets
 
 - microsoft_excel.md
 - google_sheets.md
@@ -483,7 +515,6 @@
 
 #### statistical_software
 
-- r_studio.md
 - spss.md
 - stata.md
 - sas.md
@@ -503,10 +534,14 @@
 
 - pytorch.md
 - tensorflow.md
-- keras.md
 - jax.md
 - mxnet.md
 - paddlepaddle.md
+
+#### distributed_training
+
+- deepspeed.md
+- horovod.md
 
 ### computer_vision
 
@@ -541,6 +576,11 @@
 - comet.md
 - clearml.md
 
+#### ml_pipelines
+
+- tfx.md
+- kubeflow.md
+
 #### model_serving
 
 - tensorflow_serving.md
@@ -569,6 +609,12 @@
 - wandb_visualization.md
 
 ## generative_ai_llm
+
+### llm_providers
+
+- openai_api.md
+- anthropic_api.md
+- cohere_api.md
 
 ### llm_application_frameworks
 
@@ -599,6 +645,8 @@
 - qlora.md
 - axolotl.md
 - unsloth.md
+- trl.md
+- bitsandbytes.md
 
 ### vector_databases
 
@@ -639,7 +687,6 @@
 - aws_dynamodb.md
 - aws_api_gateway.md
 - aws_secrets_manager.md
-- aws_sqs.md
 
 ### gcp_services
 
@@ -727,6 +774,14 @@
 - lighttpd.md
 - iis.md
 
+#### authentication_authorization
+
+- keycloak.md
+- auth0.md
+- okta.md
+- firebase_auth.md
+- ldap.md
+
 #### reverse_proxies_load_balancers
 
 - haproxy.md
@@ -744,7 +799,6 @@
 #### api_design_documentation
 
 - swagger_openapi.md
-- postman_docs.md
 - readme.md
 - apiblueprint.md
 
@@ -762,7 +816,7 @@
 - rest_assured.md
 - karate.md
 
-## mobile_dev
+## device_dev
 
 ### cross_platform_frameworks
 
@@ -787,12 +841,15 @@
 - jetpack_compose.md
 - android_studio.md
 
-### mobile_testing
+#### desktop_frameworks
 
-- appium.md
-- espresso.md
-- xctest.md
-- detox.md
+- electron.md
+- tauri.md
+- qt.md
+- gtk.md
+- wpf.md
+- winforms.md
+- javafx.md 
 
 ## automation_testing
 
@@ -812,6 +869,13 @@
 - playwright.md
 - puppeteer.md
 - cypress.md
+
+### mobile_testing
+
+- appium.md
+- espresso.md
+- xctest.md
+- detox.md
 
 ### load_testing
 
@@ -984,14 +1048,6 @@
 - wireshark.md
 - tcpdump.md
 - ngrep.md
-
-### authentication_authorization
-
-- keycloak.md
-- auth0.md
-- okta.md
-- firebase_auth.md
-- ldap.md
 
 ### secrets_management
 

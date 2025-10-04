@@ -1,4 +1,6 @@
-# Prayer
+# learn.md
+
+## Prayer
 >
 > सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।\
 विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥
@@ -54,6 +56,16 @@ I begin my studies; may I always be granted success.
        5. Note: Son, without JSON difficult to survive in IT world. As to grab the PI of high salary, you need to learn API. ~ Not a LLM written line
     3. YAML
 3. Other DSLs
+
+### Operating Systems
+
+### Standards & Protocols
+
+#### System & Interface Standards
+
+1. POSIX 
+   1. Note: Cross-Referenced to POSIX in Operating System category
+
 
 ## Intelligence
 
