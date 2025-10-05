@@ -1,5 +1,9 @@
 # Daily report
 
+## 2025/10/05
+
+1. Downloaded ffmpeg to create a new Study with me, a combined one for study stream audio merger
+
 ## 2025/10/04
 
 1. Further kept on regarding ChatGPT suggestion on addition of POSIX, which eventually lead to learning a lot of new things, for which on 3rd Oct also and today added in the respective folders.

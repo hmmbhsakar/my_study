@@ -40,3 +40,5 @@ Windows: Press Ctrl + Alt + Down Arrow or Ctrl + Alt + Up Arrow to add a cursor 
    1. Shortcut for applying it in vs code windows is `Alt + Shift + F`
 4. Code Spell Checker: Spelling checker for source code
    1. Since I was doing a lot english word mistakes in writing notes and whatever i am writing hence needed something to suggest the correct spelling and also keep an eye on the same. 
+5. vscode-pdf: Display pdf file in VSCode.
+
