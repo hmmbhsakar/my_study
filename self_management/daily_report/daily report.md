@@ -3,6 +3,9 @@
 ## 2025/10/05
 
 1. Downloaded ffmpeg to create a new Study with me, a combined one for study stream audio merger
+2. On study part mostly did on the repo only, learnt a lot of things, those all are part of this repo. 
+3. 3-4 hours leak happened because of some personal reasons
+4. still the tasks written in to-do is in pending stage. but would soon complete them, as a lot of things are getting done and have properly been able to properly note down the same as well. 
 
 ## 2025/10/04
 

@@ -1,5 +1,15 @@
 # Notes Format
 
+## Command Writing
+
+- short_description: What it is and use
+- Syntax: 
+  - Explanation of Syntax
+  - Examples
+- References
+  - URLS with command explanation if any
+- Notes
+
 ## YAML Frontmatter
 
 - In each and every file having this would be highly useful
@@ -10,6 +20,7 @@
 title: "Notes Format Guidance"
 tags: [notes, format, template]
 related: ["directory structure", ]
+official_url: 
 description: Keeping the general note format to follow in most of the study topic file
 ---
 

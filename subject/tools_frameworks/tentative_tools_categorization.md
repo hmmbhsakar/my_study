@@ -168,6 +168,7 @@
 #### language_package_managers
 
 - pip.md
+- uv.md
 - npm.md
 - yarn.md
 - pnpm.md
@@ -480,6 +481,9 @@
 - polars.md
 - vaex.md
 - r_tidyverse.md
+- markitdown.md
+- pydantic.md
+- textract
 
 #### data_visualization
 
