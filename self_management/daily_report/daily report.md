@@ -1,5 +1,9 @@
 # Daily report
 
+## 2025/10/07
+
+1. Couldn't do much on working side, reason being some family work in depth research all. Worked on work laptop regarding some office work. Health also some what down side, now well, would be productive stream tomorrow.
+
 ## 2025/10/06
 
 1. Monday starts, means office also in picture, worked whole day along with Gym. Working on a unique tool, which will share in future on my GitHub. Tool to automate Mail sending without using costly APIs, kind of using selenium to send mails in batch
