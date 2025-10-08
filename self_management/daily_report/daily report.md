@@ -1,5 +1,9 @@
 # Daily report
 
+## 2025/10/08
+
+1. The same can be said about today as yesterday, worked on office work, but didn't worked much on this learning and stuff. Tomorrow would be different for sure. Pardon me future self for today.
+
 ## 2025/10/07
 
 1. Couldn't do much on working side, reason being some family work in depth research all. Worked on work laptop regarding some office work. Health also some what down side, now well, would be productive stream tomorrow.
