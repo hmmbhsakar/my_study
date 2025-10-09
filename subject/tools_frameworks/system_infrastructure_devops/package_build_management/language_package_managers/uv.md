@@ -17,4 +17,10 @@ description: An extremely fast Python package and project manager, written in Ru
 
 - Installation Command: `curl -LsSf https://astral.sh.uv/install.sh | sh`
   - curl: downloads the install.sh script from astral website.
-  - 
+
+## How to
+
+### Create Virtual Environment
+
+1. `uv venv`
+   1. creates virtual environment with default python and everything.

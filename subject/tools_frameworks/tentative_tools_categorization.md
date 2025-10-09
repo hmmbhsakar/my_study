@@ -636,6 +636,7 @@
 - autogen.md
 - crewai.md
 - langraph.md
+- adk.md
 
 ### model_inference
 

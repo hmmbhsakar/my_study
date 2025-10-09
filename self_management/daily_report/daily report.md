@@ -1,5 +1,10 @@
 # Daily report
 
+## 2025/10/09
+
+1. Today Starting Agent Development Kit by Google. Target Properly completely it. Build Some Unique thing with it. I haven't Decided yet on what to build. Let's see might decide in the way. 
+2. Today not did much on ADK, kept learning the bash, uv, and that's it. Tomorrow hopefully would start the ADK in first half itself. 
+
 ## 2025/10/08
 
 1. The same can be said about today as yesterday, worked on office work, but didn't worked much on this learning and stuff. Tomorrow would be different for sure. Pardon me future self for today.

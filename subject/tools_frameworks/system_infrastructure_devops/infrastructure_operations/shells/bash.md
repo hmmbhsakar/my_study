@@ -58,7 +58,24 @@ tags: ["terminal","sh","linux","ubuntu","cli","command line"]
 
 ## How to
 
-### Change terminal editor mode
+### Script
+
+#### Write all files in a directory to a file
+
+1. Visible Files: `ls > input.txt` && Including hidden files (those starting with dot): `ls -a > input.txt`
+   1. Explanation:
+      1. `ls`: This command lists the contents of the current directory.
+      2. `>`: This is the redirection operator, which sends the standard output of a command to a specified file. If the file already exists, its content will be overwritten.
+      3. `input.txt`: This is the name of the file where the list fo files will be saved.
+   2. Modifications
+      1. Long Format: To list them in the long format (with details like permissions, size, modifications date) add `l` option/flag.
+         1. Example: `ls -l > input.txt`
+      2. To list files recursively (including files in subdirectories):
+         1. Example: `ls -R > input.txt`
+
+### Config
+
+#### Change terminal editor mode
 
 - By default bash terminal runs in Emacs settings, leading to the keybindings and shortcuts same like Emacs editor. If one wants, can switch to the Vi shortcuts instead
   - Set vi mode in bash:
@@ -66,7 +83,7 @@ tags: ["terminal","sh","linux","ubuntu","cli","command line"]
   - Set Emacs Mode in bash:
     - set -o emacs
 
-### Bash POSIX Mode
+#### Bash POSIX Mode
 
 > The --posix option in Bash forces the shell to adhere more closely to the POSIX standard. While Bash is largely POSIX-compliant, it includes extensions and default behaviors that can deviate from the standard.
 
