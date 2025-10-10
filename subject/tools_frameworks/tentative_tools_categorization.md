@@ -2,8 +2,6 @@
 
 ## maths
 
-#### Nu
-
 ## dev_env
 
 ### editors_ide
@@ -154,7 +152,7 @@
 
 ### package_build_management
 
-**#### system_package_managers
+#### system_package_managers
 
 - apt.md
 - yum.md

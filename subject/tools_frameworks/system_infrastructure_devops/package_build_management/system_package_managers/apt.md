@@ -3,6 +3,10 @@ title: "APT Package Manager"
 tags: ["package manager", "linux", "cli", "ubuntu", "apt"]
 ---
 
+## Important Info
+
+- APT Full Form: Advanced Package Tool (APT)
+
 ## How to
 
 ### Search Packages

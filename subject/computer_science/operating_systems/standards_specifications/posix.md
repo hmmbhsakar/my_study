@@ -6,7 +6,7 @@ related: ["ISO C", "Filesystems", "Threads (pthreads)"]
 ---
 ## POSIX — TL;DR
 
-One-sentence summary...
+POSIX: Portable Operating System Interface, is a family of standards for defining a standard operating system interface and environment, including a command interpreter (shell) and common utility programs, to ensure source code level portability of applications across different operating systems, particularly those derived from Unix.
 
 ## Important Info
 
