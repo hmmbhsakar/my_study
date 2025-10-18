@@ -1,5 +1,45 @@
 # Daily report
 
+## 2025/10/18
+
+1. Twitter + Room Search + Long Call + Again Back to Routine
+2. While Room search again started listening the audiobook trying to bring self to routine.
+3. This Commit this before studying for next 3 hours. Will again commit once after 3 hours, with whatever studied during those 3 hours.
+
+## 2025/10/17
+
+1. Day Wasted in Political Twitter + Youtube + Movies + P**n + Long Calls
+
+## 2025/10/16
+
+1. Day Wasted in Political Twitter + Youtube + Movies + P**n
+
+## 2025/10/15
+
+1. Room Search + Attended ADK Community Call
+
+## 2025/10/14
+
+1. Again tried getting back on routine, but failed self.
+2. Have to take care of multiple family things. That is also to be done. 
+
+## 2025/10/13
+
+1. Day Wasted in Political Twitter + Youtube
+
+## 2025/10/12
+
+1. Day Wasted in Political Twitter + Youtube
+
+## 2025/10/11
+
+1. Day Wasted in Political Twitter + Youtube
+
+## 2025/10/10
+
+1. Did started and studied ADK, but I don't remember much as I had just watched the videos on ADK, till very late. 
+
+
 ## 2025/10/09
 
 1. Today Starting Agent Development Kit by Google. Target Properly completely it. Build Some Unique thing with it. I haven't Decided yet on what to build. Let's see might decide in the way. 
