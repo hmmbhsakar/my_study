@@ -4,7 +4,7 @@
 
 1. Twitter + Room Search + Long Call + Again Back to Routine
 2. While Room search again started listening the audiobook trying to bring self to routine.
-3. This Commit this before studying for next 3 hours. Will again commit once after 3 hours, with whatever studied during those 3 hours.
+3. Have studied 3+ hours. Mostly trying to minutely understand the ADK, made little bit notes also. 
 
 ## 2025/10/17
 

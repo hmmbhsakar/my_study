@@ -8,7 +8,9 @@ tags: ["word with meaning","english","multi word"]
 - indices: the plural of "index" or can refer to the small numbers that show how many times a base number is multiplied by itself in mathematics (also called a power or exponent)
 - canonical: authoritative, standard, or most widely accepted within a given context. Something that is considered the standard, primary source, or rule within a field or group.
 - fidelity: Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.
-- bootstrapped: Get (oneself or something) into or out of a situation using existing resources. Describes something that starts or is built using limited internal resources and personal effort, rather than external funding or investment 
+- bootstrapped: Get (oneself or something) into or out of a situation using existing resources. Describes something that starts or is built using limited internal resources and personal effort, rather than external funding or investment
+- Intuitively: Of, relating to, or arising from intuition / Possessing or demonstrating intuition / Easily understood and simple to use 
+- 
 
 ## English Multi-Word Meaning
 
